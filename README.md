@@ -1,4 +1,4 @@
-#Pacman Exercise
+# Pacman Exercise
 This project brings a Pacman image to life using JavaScript, making it move from left to right on the screen while opening and closing its mouth.
 
 Installation
