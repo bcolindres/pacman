@@ -15,6 +15,9 @@ Run the HTML file in a browser or copy and paste the content of the HTML and Jav
 # Usage
 Open the HTML file in a web browser to see the Pacman animation. The Pacman image will move horizontally across the screen, simulating movement while its mouth opens and closes.
 
+# Roadmap of Future Improvements
+What I plan on doing next to improve upon this project is potentially add the ghosts that chase pacman around in the real game. This should be an interesting addition to this project given it will require the ghost to function indenependetly from how pacman is moving within this project already. I will have to do some research on how to incorporate such code into my function and begin finding the images in order to incorporate in my folder. 
+
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request or open an issue.
 
