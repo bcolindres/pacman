@@ -1,5 +1,5 @@
 
-# Pacman Exercise
+# Pacman Exercise (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF4MHMwMWRhN2ltaXFrNG8yeG1xZ2F0dXltaWdjeXBzZTFhZnhtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sUkIxlrbIYNPHzykSk/giphy.gif)
 This project brings a Pacman image to life using JavaScript, making it move from left to right on the screen while opening and closing its mouth. This was all donw using HTML, CSS and Javascript. We also used the images of Pacman in order to incorporate into our code. 
 
 # Installation
