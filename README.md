@@ -1,5 +1,9 @@
+<p align="center"> 
+  <a align="center" href="#"> 
+    <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF4MHMwMWRhN2ltaXFrNG8yeG1xZ2F0dXltaWdjeXBzZTFhZnhtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sUkIxlrbIYNPHzykSk/giphy.gif" rel="nofollow noopener" height="250px" draggable="false"/> 
+   </a>
 
-# Pacman Exercise (<iframe src="https://giphy.com/embed/sUkIxlrbIYNPHzykSk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sUkIxlrbIYNPHzykSk">via GIPHY</a></p>)
+# Pacman Exercise
 This project brings a Pacman image to life using JavaScript, making it move from left to right on the screen while opening and closing its mouth. This was all donw using HTML, CSS and Javascript. We also used the images of Pacman in order to incorporate into our code. 
 
 # Installation
